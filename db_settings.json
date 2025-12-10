@@ -1,0 +1,9 @@
+{
+    "host": "backend.cosmopolitan.edu.ng",
+    "database": "cosmopolitanedu_db",
+    "user": "cosmopolitanedu_db",
+    "password": "IfjOSj7a5mksrMjjMDjNs8Nyyl01W5w9",
+    "port": 3306,
+    "raise_on_warnings": true,
+    "autocommit": false
+}
